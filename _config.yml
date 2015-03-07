@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Ishan Marikar
 tagline:          Code Mechanic
-url:              http://getpoole.com
+url:              http://ishan-marikar.github.io
 paginate:         1
 baseurl:          /
 author:
